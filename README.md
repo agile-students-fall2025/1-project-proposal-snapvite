@@ -1,8 +1,8 @@
-# Project Proposal
+# Project Proposal: SnapVite
 
-
-# SnapVite
-
+## Team 
+ - Eslem Varank
+   
 ## Overview
 
 SanpVite is a social event-sharing platform that allows users to create, share, and manage events seamlessly with their friends or the public. Unlike traditional social media, where people share personal stories, SanpVite focuses on event-based interactions. Users can maintain public or private profiles, follow the other user and accept thier following invitations. The user invite its friends to events by sharing a "story", and track RSVPs in real time. The Smart RSVP System enables attendees to confirm their participation with options like "Attending," "Maybe," or "Interested," while hosts receive live updates and can send reminders.
