@@ -38,3 +38,6 @@ According the user input the owner(s) of the event can see the apporeved guest l
 ### Event Calendar & Organization
  - As a user, I want to see all my events displayed in a calendar view so that I can manage my schedule easily.
 
+## Initial Wireframe
+[wireframe](https://github.com/nyu-csci-ua-0467-001-002-spring-2025/final-project-deployment-eselmsenavarank/blob/fbfa2d6c8ccb7fd1a495a9c81d35fa2ff6f8cf8d/documentation/Wireframe.png)
+
