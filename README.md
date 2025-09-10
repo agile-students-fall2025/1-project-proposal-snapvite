@@ -1,4 +1,4 @@
-# Project Proposal: SnapVite
+# Project Proposal: SanpVite
 
 ## Team 
  - Eslem Varank
